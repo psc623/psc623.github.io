@@ -8,29 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am **Shuchang Pan**, an undergraduate student in **Electrical Engineering and Automation** at **Zhejiang University**, expected to graduate in **June 2027**. My current research lies broadly in **multimodal AI**, with interests spanning **medical image analysis**, **conversational behavior modeling in full-duplex speech**, **AI safety for text-to-image generation**, and **AI applications in power systems**.
+I am **Shuchang Pan**, an undergraduate student at **Zhejiang University**, expected to graduate in **June 2027**. My current research lies broadly in **multimodal AI**, with interests spanning **medical image analysis**, **speech behavior modeling**, **AI safety for T2I models**, and **GTransformer in power systems**.
 
 My goal is to develop AI systems that are not only performant, but also interpretable, robust, and useful in real-world settings.
 
-# Research Interests
-
-- Multimodal AI
-- Medical Image Analysis
-- Conversational AI and Speech Interaction
-- Trustworthy Generative Models
-- AI for Power Systems
-
-# News
-
-- **2026.03** Started a new project on large-scale power system analysis at Zhejiang University.
-- **2025.11** Began research on text-agnostic safety editing for text-to-image generative models.
-- **2025.06** Started research on conversational behavior modeling in full-duplex speech with collaborators at UC Berkeley.
-- **2025.06** Started research on multimodal medical image analysis of cholangiocarcinoma at Zhejiang University.
-
 # Selected Publications
 
-- **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Siddhant Patel, Akshaj Gupta, Kan Jen Cheng, Hanjo Kim, Zeyi Austin Li, Martin Q. Ma, Tingle Li, Gopala Anumanchipalli, Jiachen Lian.  
+- 
   **Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech**.
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech](https://arxiv.org/abs/2512.21706)
+
+**Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
 # Research Projects
 
