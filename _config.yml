@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ava Pan"
-  avatar           : "image/avatar.jpg"
+  avatar           : "images/avatar.jpg"
   bio              : "BEng student at Zhejiang University interested in AI application"
   location         : "Hangzhou, China"
   employer         :
