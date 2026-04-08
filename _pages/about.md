@@ -25,6 +25,10 @@ My goal is to develop AI systems that are not only performant, but also interpre
 
 **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
+[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]
+
+Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
+
 # Research Projects
 
 ## Conversational Behavior Modeling in Full-Duplex Speech
