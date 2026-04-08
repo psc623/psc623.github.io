@@ -15,11 +15,11 @@ My goal is to develop AI systems that are not only performant, but also interpre
   
 # 📝 Publications 
 
-**[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech]**[arxiv](https://arxiv.org/abs/2512.21706) 
+**[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech]**[arxiv](https://arxiv.org/abs/2512.21706) [github](https://github.com/psc623/psc623.github.io)
 
 **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
-**[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]** *under IEEE TDSC review*
+**[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]** [github](https://github.com/LetterLiGo/SafeGen_CCS2024) *under IEEE TDSC review*
 
 Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
 
