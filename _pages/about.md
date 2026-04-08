@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Shuchang Pan**, an undergraduate student at **Zhejiang University**, expected to graduate in **June 2027**. My current research lies broadly in **multimodal AI**, with interests spanning **medical image analysis**, **speech behavior modeling**, **AI safety for T2I models**, and **GTransformer in power systems**.
+I am **Ava Pan**, an undergraduate student at **Zhejiang University**, expected to graduate in **June 2027**. My current research lies broadly in **multimodal AI**, with interests spanning **medical image analysis**, **speech behavior modeling**, **AI safety for T2I models**, and **GTransformer in power systems**.
 
 My goal is to develop AI systems that are not only performant, but also interpretable, robust, and useful in real-world settings.
 
