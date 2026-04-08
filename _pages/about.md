@@ -12,18 +12,15 @@ I am **Shuchang Pan**, an undergraduate student at **Zhejiang University**, expe
 
 My goal is to develop AI systems that are not only performant, but also interpretable, robust, and useful in real-world settings.
 
-# Selected Publications
-
-- 
-  **Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech**.
   
 # 📝 Publications 
 
-[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech](https://arxiv.org/abs/2512.21706)
+- [Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech][arxiv](https://arxiv.org/abs/2512.21706)
 
 **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
 [SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]
+
 *under IEEE TDSC review*
 
 Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
