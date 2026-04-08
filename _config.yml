@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shuchang Pan"
+title                    : "Ava Pan"
 description              : "Undergraduate researcher in Artificial Intelligence application"
 repository               : "psc623/avapan.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shuchang Pan"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Ava Pan"
+  avatar           : "images/scone.jpg"
   bio              : "BEng student at Zhejiang University interested in AI application"
   location         : "Hangzhou, China"
   employer         :
