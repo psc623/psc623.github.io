@@ -66,15 +66,22 @@ Advisor: [Zuyi Li](https://scholar.google.com/citations?user=YaaRTSEAAAAJ&hl=en)
 
 - Zhejiang University First-Class Scholarship, 2024 & 2025
 - Yang Guoqiang Scholarship, 2025
-- First Prize in the National College Student Art Festival 2024
+- First Prize in the National College Student Art Festival, 2024
 
 # 🏫 Education
 
 - **Zhejiang University**, BEng in Electrical Engineering and Automation  
   GPA: **4.05/4.3** | Expected Jun. 2027
 
+
 # 🎺 Services and Activities
 
 - **President, Principal Trumpet**, Wenqin Symphony Orchestra, Zhejiang University
 - **Officer**, Zhejiang University College of Electrical Engineering Student Union
-- **Volunteer**, Zhejiang Provincial People’s Hospital
+- **Volunteer**, The First Affiliated Hospital of Zhejiang University School of Medicine
+
+
+# 🌏 A little more about Ava
+- I love classical music, especially symphonic music. I have been playing the trumpet for 10 years and have been in an orchestra since I was 12. But I hope to play jazz in the future, lol.
+- I have a lovely cat called Scone, and I like animals!
+- I'm really interested in history and politics, and I get excited when talking about them.
