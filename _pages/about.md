@@ -15,11 +15,15 @@ My goal is to develop AI systems that are not only performant, but also interpre
   
 # 📝 Publications 
 
-**[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech]**[arxiv](https://arxiv.org/abs/2512.21706) **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
+**[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech]**[arxiv](https://arxiv.org/abs/2512.21706) 
 
-**[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]** Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
+**Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
-*under IEEE TDSC review*
+**[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]** *under IEEE TDSC review*
+
+Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
+
+
 
 # 💻 Research Projects
 
@@ -55,7 +59,7 @@ Advisor: [Zuyi Li](https://scholar.google.com/citations?user=YaaRTSEAAAAJ&hl=en)
 - Built a large-scale dataset covering diverse grid topologies and operating conditions.
 - Designed a GNN-Transformer framework with attention bias.
 
-# 🎖 Honors and Awards
+# ⭐ Honors and Awards
 
 - Zhejiang University First-Class Scholarship, 2024 & 2025
 - Yang Guoqiang Scholarship, 2025
