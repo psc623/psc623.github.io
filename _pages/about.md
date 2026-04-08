@@ -16,16 +16,15 @@ My goal is to develop AI systems that are not only performant, but also interpre
 
 - 
   **Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech**.
+  
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech](https://arxiv.org/abs/2512.21706)
 
 **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
 [SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]
+*under IEEE TDSC review*
 
 Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
 
