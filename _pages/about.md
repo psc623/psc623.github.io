@@ -19,7 +19,7 @@ My goal is to develop AI systems that are not only performant, but also interpre
 
 **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
-[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]
+- [SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]
 
 *under IEEE TDSC review*
 
