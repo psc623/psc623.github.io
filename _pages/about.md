@@ -15,64 +15,59 @@ My goal is to develop AI systems that are not only performant, but also interpre
   
 # 📝 Publications 
 
-**[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech]**[arxiv](https://arxiv.org/abs/2512.21706)
+**[Enabling Conversational Behavior Reasoning Capabilities in Full-Duplex Speech]**[arxiv](https://arxiv.org/abs/2512.21706) **Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
-**Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
-
-**[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]**
+**[SAFEGEN++: Text-Agnostic Safety Editing for Text-to-Image Generative Models]** Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
 
 *under IEEE TDSC review*
 
-Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
+# 💻 Research Projects
 
-# Research Projects
+### Multimodal Medical Image Analysis of Cholangiocarcinoma
+**Zhejiang University**  
+Advisor: [Yongbin Ruan](https://en.wikipedia.org/wiki/Yongbin_Ruan)
 
-## Conversational Behavior Modeling in Full-Duplex Speech
+- Constructed a paired mIF and H&E pathology imaging database across mouse models and human patients.
+- Trained a U-Net-based pipeline for cell segmentation and protein-category recognition.
+
+### Conversational Behavior Modeling in Full-Duplex Speech
 **University of California, Berkeley**  
-Advisors: Jiachen Lian, Martin Ma | Jun. 2025 – Present
+Advisor: [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/)
 
 - Lead a project on conversational behavior reasoning for full-duplex speech.
 - Built a scalable data pipeline with 28,000 two-speaker clips and 37,100 per-second rationale annotations.
 - Designed a hierarchical behavior detection and Graph-of-Thought reasoning system for interpretable real-time interaction.
 
-## Text-Agnostic Safety Editing for Text-to-Image Generative Models
+### Text-Agnostic Safety Editing for Text-to-Image Generative Models
 **Nanyang Technological University**  
-Advisors: Xinfeng Li, Jialin Wu | Nov. 2025 – Present
+Advisor: [Xinfeng Li](https://letterligo.netlify.app/)
 
 - Proposed SafeGen++, a text-agnostic safety editing method for diffusion models.
 - Replaced dense attention updates with parameter-efficient LoRA safety patches.
-- Extended single-category mitigation to multi-category safety with MoE-LoRA.
+- Extended single-category mitigation to multi-category safety.
 
-## Multimodal Medical Image Analysis of Cholangiocarcinoma
+
+
+### Large-Scale Power Flow Calculation
 **Zhejiang University**  
-Advisors: Yongbin Ruan, Renjun Xu | Jun. 2025 – Present
+Advisor: [Zuyi Li](https://scholar.google.com/citations?user=YaaRTSEAAAAJ&hl=en)
 
-- Constructed a paired mIF and H&E pathology imaging database across mouse models and human patients.
-- Trained a U-Net-based pipeline for cell segmentation and protein-category recognition.
+- Built a large-scale dataset covering diverse grid topologies and operating conditions.
+- Designed a GNN-Transformer framework with attention bias.
 
-## Large-Scale Power System Analysis
-**Zhejiang University**  
-Advisor: Zuyi Li | Mar. 2026 – Present
-
-- Investigating graph-based models for scalable power flow analysis.
-- Building a large-scale dataset covering diverse grid topologies and operating conditions.
-
-# Honors and Awards
+# 🎖 Honors and Awards
 
 - Zhejiang University First-Class Scholarship, 2024 & 2025
 - Yang Guoqiang Scholarship, 2025
+- First Prize in the National College Student Art Festival 2024
 
-# Education
+# 🏫 Education
 
 - **Zhejiang University**, BEng in Electrical Engineering and Automation  
   GPA: **4.05/4.3** | Expected Jun. 2027
 
-# Services and Activities
+# 🎺 Services and Activities
 
 - **President, Principal Trumpet**, Wenqin Symphony Orchestra, Zhejiang University
 - **Officer**, Zhejiang University College of Electrical Engineering Student Union
 - **Volunteer**, Zhejiang Provincial People’s Hospital
-
-# CV
-
-You can download my CV [here](./files/Shuchang_Pan_CV.pdf).
