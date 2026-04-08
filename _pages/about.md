@@ -17,14 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Ava Pan**, an undergraduate student at **Zhejiang University**, expected to graduate in **June 2027**. My current research lies broadly in **multimodal AI**, with interests spanning **medical image analysis**, **speech behavior modeling**, **AI safety for T2I models**, and **GTransformer in power systems**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My goal is to develop AI systems that are not only performant, but also interpretable, robust, and useful in real-world settings.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -33,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shuchang Pan**, Siddharth Banerjee, Dhruv Hebbar, Et al.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -43,16 +39,43 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Zhejiang University First-Class Scholarship, 2024 & 2025
+- Yang Guoqiang Scholarship, 2025
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Zhejiang University**, BEng in Electrical Engineering and Automation  
+  GPA: **4.05/4.3** | Expected Jun. 2027
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Research Projects
+## Conversational Behavior Modeling in Full-Duplex Speech
+**University of California, Berkeley**  
+Advisors: Jiachen Lian, Martin Q Ma
 
-# 💻 Internships
+- Lead a project on conversational behavior reasoning for full-duplex speech.
+- Built a scalable data pipeline with 28,000 two-speaker clips and 37,100 per-second rationale annotations.
+- Designed a hierarchical behavior detection and Graph-of-Thought reasoning system for interpretable real-time interaction.
+
+## Text-Agnostic Safety Editing for Text-to-Image Generative Models
+**Nanyang Technological University**  
+Advisors: Xinfeng Li, Jialin Wu 
+
+- Proposed SafeGen++, a text-agnostic safety editing method for diffusion models.
+- Replaced dense attention updates with parameter-efficient LoRA safety patches.
+- Extended single-category mitigation to multi-category safety with MoE-LoRA.
+
+## Multimodal Medical Image Analysis of Cholangiocarcinoma
+**Zhejiang University**  
+Advisors: Yongbin Ruan
+
+- Constructed a paired mIF and H&E pathology imaging database across mouse models and human patients.
+- Trained a U-Net-based pipeline for cell segmentation and protein-category recognition.
+
+## Large-Scale Power System Analysis
+**Zhejiang University**  
+Advisor: Zuyi Li | Mar. 2026 – Present
+
+- Investigating graph-based models for scalable power flow analysis.
+- Building a large-scale dataset covering diverse grid topologies and operating conditions.
+
+#  Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
