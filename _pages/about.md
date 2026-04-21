@@ -32,14 +32,14 @@ Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
 
 ### Multimodal Medical Image Analysis of Cholangiocarcinoma
 **Zhejiang University**  
-Advisor: [Yongbin Ruan](https://en.wikipedia.org/wiki/Yongbin_Ruan)
+Advisor: [Yongbin Ruan](https://en.wikipedia.org/wiki/Yongbin_Ruan), Academician of the Chinese Academy of Sciences
 
 - Constructed a paired mIF and H&E pathology imaging database across mouse models and human patients.
 - Trained a U-Net-based pipeline for cell segmentation and protein-category recognition.
 
 ### Conversational Behavior Modeling in Full-Duplex Speech
 **University of California, Berkeley**  
-Advisor: [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/)
+Advisor: [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/), Professor at UC Berkeley
 
 - Lead a project on conversational behavior reasoning for full-duplex speech.
 - Built a scalable data pipeline with 28,000 two-speaker clips and 37,100 per-second rationale annotations.
@@ -47,7 +47,7 @@ Advisor: [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/)
 
 ### Text-Agnostic Safety Editing for Text-to-Image Generative Models
 **Nanyang Technological University**  
-Advisor: [Xinfeng Li](https://letterligo.netlify.app/)
+Advisor: [Xinfeng Li](https://letterligo.netlify.app/), Researcher at NTU
 
 - Proposed SafeGen++, a text-agnostic safety editing method for diffusion models.
 - Replaced dense attention updates with parameter-efficient LoRA safety patches.
@@ -57,7 +57,7 @@ Advisor: [Xinfeng Li](https://letterligo.netlify.app/)
 
 ### Large-Scale Power Flow Calculation
 **Zhejiang University**  
-Advisor: [Zuyi Li](https://scholar.google.com/citations?user=YaaRTSEAAAAJ&hl=en)
+Advisor: [Zuyi Li](https://scholar.google.com/citations?user=YaaRTSEAAAAJ&hl=en), Professor at ZJU
 
 - Built a large-scale dataset covering diverse grid topologies and operating conditions.
 - Designed a GNN-Transformer framework with attention bias.
@@ -74,14 +74,8 @@ Advisor: [Zuyi Li](https://scholar.google.com/citations?user=YaaRTSEAAAAJ&hl=en)
   GPA: **4.05/4.3** | Expected Jun. 2027
 
 
-# 🎺 Services and Activities
-
-- **President, Principal Trumpet**, Wenqin Symphony Orchestra, Zhejiang University
-- **Officer**, Zhejiang University College of Electrical Engineering Student Union
-- **Volunteer**, The First Affiliated Hospital of Zhejiang University School of Medicine
-
 
 # 🌏 A little more about Ava
-- I love classical music, especially symphonic music. I have been playing the trumpet for 10 years and have been in an orchestra since I was 12. But I hope to play jazz in the future, lol.
+- I love classical music, especially symphonic music. I have been playing the trumpet for 10 years and have been in an orchestra ever since. But I hope to play jazz in the future, lol.
 - I have a lovely cat called Scone, and I like animals!
 - I'm really interested in history and politics, and I get excited when talking about them.
