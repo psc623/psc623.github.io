@@ -29,12 +29,24 @@ Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
 
 
 # 💻 Research Projects
+### Brain Health Architecture Building for Alzheimer's disease and Schizophrenia
+**University of Chicago**
+Advisor: [Bonnie Fleming](https://en.wikipedia.org/wiki/Bonnie_Fleming),Fermilab's chief research officer
 
-### Multimodal Medical Image Analysis of Cholangiocarcinoma
+- Building a multimodal data architecture for EEG, MRI, and other modalities.
+- Training encoders for 3D image inputs based on MedSigLIP.
+
+### Cross-modality robustness evaluation for multi-modality models
+**University of Chicago**
+Advisor: [Tian Li](https://litian96.github.io/),Assistant Professor of Uchicago CS Department
+
+- Investigating cross-modal interference in multi-modality models.
+  
+### Medical Image Analysis of Cholangiocarcinoma Microenvironment
 **Zhejiang University**  
 Advisor: [Yongbin Ruan](https://en.wikipedia.org/wiki/Yongbin_Ruan), Academician of the Chinese Academy of Sciences
 
-- Constructed a paired mIF and H&E pathology imaging database across mouse models and human patients.
+- Preprocessed a paired mIF and H&E pathology imaging database across mouse models and human patients.
 - Trained a U-Net-based pipeline for cell segmentation and protein-category recognition.
 
 ### Conversational Behavior Modeling in Full-Duplex Speech
@@ -53,14 +65,12 @@ Advisor: [Xinfeng Li](https://letterligo.netlify.app/), Researcher at NTU
 - Replaced dense attention updates with parameter-efficient LoRA safety patches.
 - Extended single-category mitigation to multi-category safety.
 
-
-
 ### Large-Scale Power Flow Calculation
 **Zhejiang University**  
 Advisor: [Zuyi Li](https://scholar.google.com/citations?user=YaaRTSEAAAAJ&hl=en), Professor at ZJU
 
 - Built a large-scale dataset covering diverse grid topologies and operating conditions.
-- Designed a GNN-Transformer framework with attention bias.
+- Designed a GNN-Transformer framework with attention bias of Jacobian Matrix.
 
 # ⭐ Honors and Awards
 
