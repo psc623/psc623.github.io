@@ -36,11 +36,6 @@ Advisor: [Bonnie Fleming](https://en.wikipedia.org/wiki/Bonnie_Fleming),Fermilab
 - Building a multimodal data architecture for EEG, MRI, and other modalities.
 - Training encoders for 3D image inputs based on MedSigLIP.
 
-### Cross-modality robustness evaluation for multi-modality models
-**University of Chicago**
-Advisor: [Tian Li](https://litian96.github.io/),Assistant Professor of Uchicago CS Department
-
-- Investigating cross-modal interference in multi-modality models.
   
 ### Medical Image Analysis of Cholangiocarcinoma Microenvironment
 **Zhejiang University**  
@@ -48,6 +43,13 @@ Advisor: [Yongbin Ruan](https://en.wikipedia.org/wiki/Yongbin_Ruan), Academician
 
 - Preprocessed a paired mIF and H&E pathology imaging database across mouse models and human patients.
 - Trained a U-Net-based pipeline for cell segmentation and protein-category recognition.
+
+
+### Cross-modality robustness evaluation for multi-modality models
+**University of Chicago**
+Advisor: [Tian Li](https://litian96.github.io/),Assistant Professor of Uchicago CS Department
+
+- Investigating cross-modal interference in multi-modality models.
 
 ### Conversational Behavior Modeling in Full-Duplex Speech
 **University of California, Berkeley**  
@@ -59,7 +61,7 @@ Advisor: [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/), Pro
 
 ### Text-Agnostic Safety Editing for Text-to-Image Generative Models
 **Nanyang Technological University**  
-Advisor: [Xinfeng Li](https://letterligo.netlify.app/), Researcher at NTU
+Advisor: [Xinfeng Li](https://letterligo.netlify.app/), Assistant Professor at PolyU
 
 - Proposed SafeGen++, a text-agnostic safety editing method for diffusion models.
 - Replaced dense attention updates with parameter-efficient LoRA safety patches.
