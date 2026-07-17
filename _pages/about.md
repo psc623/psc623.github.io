@@ -31,7 +31,7 @@ Xinfeng Li, **Shuchang Pan**, Jialin Wu, Et al.
 # 💻 Research Projects
 ### Brain Health Architecture Building for Alzheimer's disease and Schizophrenia
 **University of Chicago**
-Advisor: [Bonnie Fleming](https://en.wikipedia.org/wiki/Bonnie_Fleming),Fermilab's chief research officer
+Advisor: [Bonnie Fleming](https://en.wikipedia.org/wiki/Bonnie_Fleming), Fermilab's chief research officer
 
 - Building a multimodal data architecture for EEG, MRI, and other modalities.
 - Training encoders for 3D image inputs based on MedSigLIP.
@@ -47,7 +47,7 @@ Advisor: [Yongbin Ruan](https://en.wikipedia.org/wiki/Yongbin_Ruan), Academician
 
 ### Cross-modality robustness evaluation for multi-modality models
 **University of Chicago**
-Advisor: [Tian Li](https://litian96.github.io/),Assistant Professor of Uchicago CS Department
+Advisor: [Tian Li](https://litian96.github.io/), Assistant Professor of Uchicago CS Department
 
 - Investigating cross-modal interference in multi-modality models.
 
